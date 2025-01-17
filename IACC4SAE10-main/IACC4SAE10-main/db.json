@@ -1,0 +1,18 @@
+{
+  "residences": [
+    {
+      "id": "e501",
+      "name": "test",
+      "address": "nabeulaaaaadd",
+      "image": "../../assets/images/R1.jpg",
+      "status": "Available"
+    },
+    {
+      "name": "roua",
+      "address": "testtststsstts",
+      "image": "../../assets/images/R1.jpg",
+      "status": "Available",
+      "id": "4c18"
+    }
+  ]
+}
